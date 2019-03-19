@@ -3,7 +3,7 @@ package Legato;
 public class ArraySort {
 
 	public static void main(String[] args) {
-		String[] vaidhya = new String[] { "violets", "indigo", "blue", "green", "yellow", "orange","red" };
+		String[] vaidhya = new String[] { "violetss", "indigo", "blue", "green", "yellow", "orange","red" };
 		for (int i = 0; i < vaidhya.length; i++) {
 			for (int j = i + 1; j < vaidhya.length; j++) {
 				String tmp = "";
